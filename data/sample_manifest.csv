@@ -1,0 +1,11 @@
+study,reference,year,journal,accession,repository,url,species,ganglion,assay,platform,n_neurons
+Furlan_NatNeuro16,Furlan et al.,2016,Nature Neuroscience,GSE78845,GEO,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE78845,Mouse,ThoracicPool,scRNA-seq,plate-based (C1/STRT),237
+Zeisel_Cell18,Zeisel et al.,2018,Cell,SRP135960,SRA,https://www.ncbi.nlm.nih.gov/sra/SRP135960,Mouse,ThoracicPool,scRNA-seq,10x Chromium,3341
+MappsThomsen_CellRep22,Mapps et al.,2022,Cell Reports,GSE175421,GEO,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175421,Mouse,SCG,scRNA-seq,Drop-seq,2353
+Lee_Protocols22,"Lee, Thaker & Zeltser",2022,SPARC,10.26275/bvpu-cuz7,SPARC,https://sparc.science/datasets/263,Mouse,SCG,scRNA-seq,plate-based (FACS 3' UMI),641
+Ge_JVisExp22,Ge et al.,2022,Journal of Visualized Experiments,GSE232286,GEO,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE232286,Mouse,SCG,snRNA-seq,10x Chromium + HTO,1107
+Sharma_eLife23,Sharma et al.,2023,eLife,GSE231924,GEO,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE231924,Mouse,Stellate,scRNA-seq,10x Chromium 3' v3,1142
+Ziegler_Science23,Ziegler et al.,2023,Science,GSE231767,GEO,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE231767,Mouse,SCG,sc/snRNA-seq,10x Chromium,3072
+Sarker_bioRxiv24,Sarker et al.,2024,bioRxiv,GSE233163,GEO,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE233163,Mouse,SCG,scRNA-seq,10x Chromium,354
+Sivori_eLife24,Sivori et al.,2024,eLife,GSE232789,GEO,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE232789,Mouse,Multiple,scRNA-seq,10x Chromium 3' v2/v3,22032
+Wang_Nature24,Wang et al.,2025,Nature,GSE278457,GEO,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE278457,Mouse,Coeliac,scRNA-seq,10x Chromium 3' v3.1,1054

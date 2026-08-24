@@ -1,0 +1,35 @@
+# Large data objects are distributed separately, never committed.
+*.h5ad
+*.h5Seurat
+*.rds
+*.Rds
+*.loom
+*.mtx
+*.mtx.gz
+
+# ...except the small precomputed inputs the figure scripts read.
+!data/precomputed/*.h5ad
+
+# Downloaded source data and atlas caches
+data/raw/
+data/processed/
+data/abc_atlas/
+data/integrated.rds
+data/neurons.h5ad
+
+# Generated outputs
+figures/
+results/
+
+# Manuscript drafts
+*.pdf
+*.docx
+
+# Working files
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
+REPRODUCIBILITY_PLAN.md

@@ -1,0 +1,13 @@
+{
+  "source_object": "SympAtlas_1-0_Neurons_Samson_Ji.h5ad",
+  "n_cells": 35333,
+  "n_raw_genes": 128095,
+  "cluster_key": "Leiden on topological graph (low-res)",
+  "de_gate": {
+    "gene1": "Th",
+    "thr1": 0.0,
+    "gene2": "Adrb2",
+    "thr2": 0.0
+  },
+  "scanpy": "1.11.3"
+}
